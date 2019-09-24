@@ -4,7 +4,7 @@ nie.lk
 
 Contact Us,
 EResources,
-Photo Gallery
+Photo Gallery,
 Video Gallery,
 Other Materials
 
