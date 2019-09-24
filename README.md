@@ -2,10 +2,10 @@
 
 nie.lk
 
-Contact Us
-EResources
+Contact Us,
+EResources,
 Photo Gallery
-Video Gallery
+Video Gallery,
 Other Materials
 
 
